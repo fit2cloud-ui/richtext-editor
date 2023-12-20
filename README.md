@@ -5,7 +5,7 @@ MeterSphere v3的默认富文本编辑器，基于 [Tiptap](https://github.com/u
 ## 开发环境
 
 ```bash
-git clone git@github.com:halo-sigs/richtext-editor.git
+git clone git@github.com:fit2cloud-ui/richtext-editor.git
 ```
 
 ```bash
